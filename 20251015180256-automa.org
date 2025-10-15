@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6ab97f63-8f0b-4958-a28a-920602a02939
+:END:
+#+title: Automa
+#+filetags: LinguaggiEComputabilità,Programmazione,Definizione
+Un dispositivo che prende in input una [[id:24069157-da29-4dcc-92fd-91e0953dee16][stringa]] qualsiasi ed è in grado di determinare se essa appartiene o meno al [[id:f5c3af92-0ef0-4423-9596-1deef696c137][Linguaggio]].
+Esistono due tipi di automa:
+- [[id:6c85e413-1910-468c-a0b5-598b3c3c2f34][Automi a stati finiti]]
+- [[id:97cd7da1-a875-42bd-b73d-834e2c21f8d8][Automi a Pila]]

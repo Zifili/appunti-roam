@@ -2,3 +2,5 @@
 :ID:       f5dd745c-c111-4e19-b762-5f551ec7d762
 :END:
 #+title: Gerarchie di Chomsky
+#+filetags: Definizione, LinguaggiEComputibilità
+Chomsky ha definito 4 tipi di linguaggi secondo il seguente ordine \(\to\) $\to$

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9315a236-c404-4e67-9fb6-acfa072b5553
+:END:
+#+title: Grammatica
+#+filetags: LinguaggiEComputabilità, Definizione
+Insieme finito di regole che genera tutte e sole le [[id:24069157-da29-4dcc-92fd-91e0953dee16][Stringhe]] di un [[id:f5c3af92-0ef0-4423-9596-1deef696c137][Linguaggio]]

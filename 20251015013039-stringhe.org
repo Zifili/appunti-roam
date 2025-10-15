@@ -10,3 +10,6 @@
   #+BEGIN_CENTER
   \[w = 01101 \Rightarrow |w| = 5\]
   #+END_CENTER
+
+* backlink
+[[id:3e7febff-a0ce-4945-a6d6-12e9e0dabda9][Espressioni Regolari]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       dc7a198b-dcfb-4cad-a1ec-170608a37413
+:END:
+#+title: Potenza di un Alfabeto
+Dato un alfabeto \[\Sigma\] e dato \[k>0\] intero definiamo la potenza \[\Sigma^k\] come l'insieme delle sequenze di lunghezza \[k\] formate dai simboli di \[\Sigma\]. Ovvero \[\Sigma^k\] è l'insieme di tutte le stringhe di lunghezza \[k.\]
+
+* esempio
+\[\Sigma={0,1}\] allora \[\Sigma^2=\{00,01,10,11\},\Sigma^1=\{0,1\},\Sigma^0=\{\epsilon\}\]
+
+* backlink
+[[id:a4942576-cccc-4a77-981e-22d519630f3f][Proprieta' algebriche delle espressioni regolari]]

@@ -2,3 +2,15 @@
 :ID:       1d1b88b2-cecf-41db-9761-5df34e831abd
 :END:
 #+title: Concatenazione di stringhe
+#+filetags: Stringhe,LinguaggiEComputabilità
+Date \(u,v\in\Sigma^*\),la loro concatenazione è \(u\cdot v\) oppure \(uv\)
+La concatenazione non è [[id:38cda579-9e10-435d-be01-8e4b6c3ff1dd][Commutativa]]
+
+* esempio
+\(u=010\quad v=1101\) abbiamo
+- \(uv=0101101\) e \(vu=1101010\)
+- \(|uv|=|u|+|v|\)
+- \(u\epsilon=u=\epsilon u\)
+
+* backlink
+[[id:24069157-da29-4dcc-92fd-91e0953dee16][Stringhe]],[[id:8e110360-c038-457c-8901-8b375c5d3102][Concatenazione di Linguaggi Regolari]]

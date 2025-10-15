@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       424fc68d-4137-4d57-97b3-ffd9ff4f7cfa
+:END:
+#+title: Macchina di Turing con nastro limitato

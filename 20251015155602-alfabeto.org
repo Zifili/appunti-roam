@@ -2,3 +2,8 @@
 :ID:       d7db99e3-8358-4742-8c69-585a92ea43bb
 :END:
 #+title: Alfabeto
+Insieme finito e non vuoto di simboli, viene indicato con \[\Sigma\](sigma)
+ES:\[\Sigma=\{0,1\}\] alfabeto formato da due caratteri 0 e 1.
+
+* backlink
+[[id:24069157-da29-4dcc-92fd-91e0953dee16][Stringhe]],[[id:f5c3af92-0ef0-4423-9596-1deef696c137][Linguaggi]]

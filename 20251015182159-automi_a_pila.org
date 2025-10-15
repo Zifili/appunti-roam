@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       97cd7da1-a875-42bd-b73d-834e2c21f8d8
+:END:
+#+title: Automi a Pila

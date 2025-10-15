@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       38cda579-9e10-435d-be01-8e4b6c3ff1dd
+:END:
+#+title: Commutativa

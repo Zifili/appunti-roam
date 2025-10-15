@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5dc94802-09e4-4f16-8a04-279e73e55937
+:END:
+#+title: Macchina di Turing
+
+
+* backlink
+[[id:424fc68d-4137-4d57-97b3-ffd9ff4f7cfa][Macchina di Turing con nastro limitato]]
