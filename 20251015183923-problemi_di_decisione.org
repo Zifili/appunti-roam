@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7cb856e4-bd43-4d73-b812-d2cc335aef80
+:END:
+#+title: Problemi di Decisione
+#+filetags: LinguaggiEComputabilità,Problema, Domanda,Definizione
+Sono una tipologia di [[id:6debafd4-ecf3-457f-9d22-9ffe9fa9a893][Problemi]] che restituiscono _solo_ vero o falso, a seconda dell'input.
+Un caso particolare è il [[id:cd26079c-e06c-4b30-9d8f-7c6ed30e6ea9][Membership Problem]] facente parte dei cosiddetti
+
+* backlink
+[[id:6ab97f63-8f0b-4958-a28a-920602a02939][Automa]]

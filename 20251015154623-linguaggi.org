@@ -2,3 +2,10 @@
 :ID:       f5c3af92-0ef0-4423-9596-1deef696c137
 :END:
 #+title: Linguaggi
+#+title Linguaggi, definizione, programmazione
+Un [[id:f5c3af92-0ef0-4423-9596-1deef696c137][Linguaggio]] su \(\Sigma\) è un sottoinsieme di \(\Sigma^*\), cioè \(L\subseteq\Sigma^*\).
+Come ogni insieme sono rappresentabili tramite:
+- elencazione : \(L=\{0,1,011,101,...\}\)
+- definizione : \(L=\{w\in\{0,1\}^*|\text{w contiene un numero pari di 1}\}\)
+
+Un linguaggio ha una [[id:9315a236-c404-4e67-9fb6-acfa072b5553][Grammatica]] e un'[[id:6ab97f63-8f0b-4958-a28a-920602a02939][Automa]].

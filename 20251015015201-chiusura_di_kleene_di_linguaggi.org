@@ -7,5 +7,7 @@
 
 \[\Sigma^*=\Sigma^0\cup\Sigma^1\cup\Sigma^2\cup ...\]
 
+Denotiamo con \(\Sigma^+\Sigma^*/\{\epsilon\}\)
+
 * backlink
 [[id:bb7aefa3-a226-4c02-99d8-0caa8573a194][Linguaggi Regolari]],[[id:160a551b-ea76-4dd7-aeda-1ee719c971a1][Chiusura di Kleene per un linguaggio regolare]],[[id:3e7febff-a0ce-4945-a6d6-12e9e0dabda9][Espressioni Regolari]]

@@ -4,6 +4,8 @@
 #+title: Potenza di un Alfabeto
 Dato un alfabeto \[\Sigma\] e dato \[k>0\] intero definiamo la potenza \[\Sigma^k\] come l'insieme delle sequenze di lunghezza \[k\] formate dai simboli di \[\Sigma\]. Ovvero \[\Sigma^k\] è l'insieme di tutte le stringhe di lunghezza \[k.\]
 
+Osservazione: Se \(|\Sigma|=n\) allora \(|\Sigma^k|=n^k\)
+
 * esempio
 \[\Sigma={0,1}\] allora \[\Sigma^2=\{00,01,10,11\},\Sigma^1=\{0,1\},\Sigma^0=\{\epsilon\}\]
 

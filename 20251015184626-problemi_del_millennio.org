@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       51212a9b-2a30-46e6-be4a-7d92f4cdf2c2
+:END:
+#+title: Problemi del Millennio
+#+filetags: Definizione, Algoritmi, Linguaggi, Programmazione
+Sono una categoria di assunzioni che non sono attualmente dimostrabili.
+Nel caso dei [[id:7cb856e4-bd43-4d73-b812-d2cc335aef80][Problemi di Decisione]] abbiamo una macrocategoria riguardante il dimostrare che tutti i problemi non risolvibili sono difficili oppure che tutti i problemi non risolvibili verranno risolti prima o poi.
+Un esempio è il "calcolo dei numeri primi" visto che non esiste una soluzione non brute-force per trovarli tutti.

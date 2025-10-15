@@ -3,4 +3,10 @@
 :END:
 #+title: Gerarchie di Chomsky
 #+filetags: Definizione, LinguaggiEComputibilità
-Chomsky ha definito 4 tipi di linguaggi secondo il seguente ordine \(\to\) $\to$
+Chomsky ha classificato 4 tipi di linguaggi e sono:
+- tipo3: [[id:bb7aefa3-a226-4c02-99d8-0caa8573a194][Linguaggi Regolari]] analizzabili/gestiti tramite [[id:6c85e413-1910-468c-a0b5-598b3c3c2f34][Automi a stati finiti]]
+- tipo2: [[id:16080099-87d5-43fc-8bce-be1e0c854c1a][Linguaggi Context-Free]] analizzabili/gestiti tramite [[id:97cd7da1-a875-42bd-b73d-834e2c21f8d8][Automi a Pila]]
+- tipo1: [[id:8c23ea53-98c3-4b8b-80d3-168ef3f37071][Linguaggi Contestuali]] analizzabili/gestiti tramite [[id:424fc68d-4137-4d57-97b3-ffd9ff4f7cfa][Macchina di Turing con nastro limitato]]
+- tipo0: [[id:cfe98bbc-764b-4acb-938a-7606c06761d1][Linguaggi Ricorsivamente Enumerabili]] analizzabili/gestiti tramite [[id:5dc94802-09e4-4f16-8a04-279e73e55937][Macchina di Turing]]
+
+la gerarchia è la seguente $3\subset2\subset1\subset0$.
