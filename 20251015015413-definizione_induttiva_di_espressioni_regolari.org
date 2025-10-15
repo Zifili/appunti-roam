@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7905fc45-830f-43e4-b3c4-03298510a433
+:END:
+#+title: Definizione induttiva di Espressioni Regolari
+[[id:3e7febff-a0ce-4945-a6d6-12e9e0dabda9][Espressioni Regolari]]

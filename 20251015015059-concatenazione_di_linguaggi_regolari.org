@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8e110360-c038-457c-8901-8b375c5d3102
+:END:
+#+title: Concatenazione di Linguaggi Regolari
+[[id:bb7aefa3-a226-4c02-99d8-0caa8573a194][Linguaggi Regolari]]
+[[id:1d1b88b2-cecf-41db-9761-5df34e831abd][Concatenazione di stringhe]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3e7febff-a0ce-4945-a6d6-12e9e0dabda9
+:END:
+#+title: Espressioni Regolari
+#+filetags: :EspressioniRegolari :Stringhe :Regex :LinguaggiEComputabilita'
+* Espressioni Regolari
++ Le espressioni regolari servono per denotare [[id:bb7aefa3-a226-4c02-99d8-0caa8573a194][Linguaggi Regolari]].
++ Sono utili per il [[id:d579b153-ed30-4092-ace1-265b76be0fb1][Pattern Recognition]] nelle [[id:24069157-da29-4dcc-92fd-91e0953dee16][Stringhe]]
++ Esempio
+ \[a^*b^*c^* \to \text{0 o piu' 'a', seguite da 0 o piu' 'b', seguiti da 0 o piu' 'c'}\]
++ Offrono una descrizione algebrica dei [[id:bb7aefa3-a226-4c02-99d8-0caa8573a194][Linguaggi Regolari]] e una metologia dichiarativa per esprimere le [[id:24069157-da29-4dcc-92fd-91e0953dee16][Stringhe]] che vogliamo accettare.
++ Vengono utilizzate molto in sistemi che eleborano stringhe come [[id:7707b339-9d6b-4776-981b-22b8cd0fe600][Il comando di ricerca Unix GREP]] e [[id:e5398e3c-2c55-4c25-aee9-163974818dd7][Analizzatori lessicali: Lex e Flex]]

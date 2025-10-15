@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       24069157-da29-4dcc-92fd-91e0953dee16
+:END:
+#+title: Stringhe
+#+filetags: :LinguaggiEComputabilita'
+
+* Stringhe
++ Una stringa e' una *sequenza finita di simboli* di un [[id:d7db99e3-8358-4742-8c69-585a92ea43bb][Alfabeto]]
++ Data una stringa w, ci possiamo chiedere la sua lunghezza, che si indica:
+  #+BEGIN_CENTER
+  \[w = 01101 \Rightarrow |w| = 5\]
+  #+END_CENTER

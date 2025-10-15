@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       6c85e413-1910-468c-a0b5-598b3c3c2f34
+:END:
+#+title: Automi a stati finiti

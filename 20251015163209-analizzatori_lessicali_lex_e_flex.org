@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       e5398e3c-2c55-4c25-aee9-163974818dd7
+:END:
+#+title: Analizzatori lessicali: Lex e Flex

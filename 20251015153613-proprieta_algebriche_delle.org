@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       a4942576-cccc-4a77-981e-22d519630f3f
+:END:
+#+title: Proprieta' algebriche delle espressioni regolari

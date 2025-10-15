@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       72ff2509-f19b-4f62-b735-4de134a39aa6
+:END:
+#+title: Chiusura di Kleene di Linguaggi
+[[id:bb7aefa3-a226-4c02-99d8-0caa8573a194][Linguaggi Regolari]]

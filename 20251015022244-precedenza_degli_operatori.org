@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f5d336c8-9b0f-4b14-a7a1-450b44dccefa
+:END:
+#+title: Precedenza degli operatori
+
+[[id:3e7febff-a0ce-4945-a6d6-12e9e0dabda9][Espressioni Regolari]]
+1. [[id:160a551b-ea76-4dd7-aeda-1ee719c971a1][Chiusura di Kleene per un linguaggio regolare]]
+   - [[id:2d096792-3d15-493f-92c3-e21ea86cf2fa][Esempio di calcolo di Chiusura di Kleene di un linguaggio regolare]]
+2. [[id:8e110360-c038-457c-8901-8b375c5d3102][Concatenazione di Linguaggi Regolari]]
+   - Esempio:
+     \[L = \{001,10,111\} \ M=\{\varepsilon, 001\} \to LM=\{001,001001,10,10001,111,111001\} \ ML=\{011,001001,10,00110,111,001111\}\]
+3. [[id:0b9f3094-38a3-4e3a-a3fd-024181be0287][Unione]] (di linguaggi regolari)

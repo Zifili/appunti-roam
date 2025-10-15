@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       2d096792-3d15-493f-92c3-e21ea86cf2fa
+:END:
+#+title: Esempio di calcolo di Chiusura di Kleene di un linguaggio regolare

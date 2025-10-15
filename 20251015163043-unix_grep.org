@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       7707b339-9d6b-4776-981b-22b8cd0fe600
+:END:
+#+title: Il comando di ricerca Unix GREP

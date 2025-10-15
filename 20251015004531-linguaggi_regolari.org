@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bb7aefa3-a226-4c02-99d8-0caa8573a194
+:END:
+#+title: Linguaggi Regolari
+#+filetags :LinguaggiEComputabilita'
+
+* Linguaggi Regolari
++ I linguaggi regolari sono [[id:f5c3af92-0ef0-4423-9596-1deef696c137][Linguaggi]] che sono accettati da [[id:6c85e413-1910-468c-a0b5-598b3c3c2f34][Automi a stati finiti]]
++ Rappresentano il =tipo 3= nelle [[id:f5dd745c-c111-4e19-b762-5f551ec7d762][Gerarchie di Chomsky]]

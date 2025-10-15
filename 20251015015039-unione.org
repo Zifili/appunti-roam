@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0b9f3094-38a3-4e3a-a3fd-024181be0287
+:END:
+#+title: Unione
+[[id:bb7aefa3-a226-4c02-99d8-0caa8573a194][Linguaggi Regolari]]

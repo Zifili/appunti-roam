@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       1d1b88b2-cecf-41db-9761-5df34e831abd
+:END:
+#+title: Concatenazione di stringhe

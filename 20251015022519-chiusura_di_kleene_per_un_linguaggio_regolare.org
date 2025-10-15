@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       160a551b-ea76-4dd7-aeda-1ee719c971a1
+:END:
+#+title: Chiusura di Kleene per un linguaggio regolare

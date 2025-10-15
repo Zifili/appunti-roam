@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       d579b153-ed30-4092-ace1-265b76be0fb1
+:END:
+#+title: Pattern Recognition
